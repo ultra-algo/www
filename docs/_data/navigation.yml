@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Team
+  url: /team/
+- title: Technology
+  url: /technology/
+- title: Development Plan
+  url: /development-plan/
+- title: Contact Us
+  url: /contact-us
