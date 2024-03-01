@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "jekyll-theme-so-simple"
-  spec.version                 = "3.2.0"
-  spec.authors                 = ["Michael Rose"]
+  spec.version                 = "3.2.1"
+  spec.authors                 = ["Tsachi Herman"]
 
   spec.summary                 = %q{A simple Jekyll theme for words and pictures.}
   spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
