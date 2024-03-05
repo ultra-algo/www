@@ -2,6 +2,8 @@
 layout: page
 title: Development Plan
 permalink: /development-plan/
+image: 
+    path: /images/header-empty.png
 ---
 
 # Development Plan

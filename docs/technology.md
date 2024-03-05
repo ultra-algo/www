@@ -2,6 +2,8 @@
 layout: page
 title: Technology
 permalink: /technology/
+image: 
+    path: /images/header-empty.png
 ---
 
 # Technology

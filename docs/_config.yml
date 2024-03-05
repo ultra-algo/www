@@ -21,14 +21,13 @@
 title: UltraAlgo
 email: contact-us@ultraalgo.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "UltraAlgo Blockchain is a decentralized, scalable, and secure blockchain platform for fast and secure value transfer. Our blockchain is designed to be highly scalable, with a focus on decentralization and security. Join the UltraAlgo community today and discover the future of blockchain technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ultraalgo.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ultraalgo
 github_username:  ultra-algo
 domain: ultraalgo.net
+page_image: /1.gif
 
 # Build settings
 theme: jekyll-theme-so-simple
@@ -54,3 +53,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
